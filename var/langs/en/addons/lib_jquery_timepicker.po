@@ -1,0 +1,36 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Languages::lib_jquery_timepicker"
+msgid "Library - jQuery Timepicker"
+msgstr "Library - jQuery Timepicker"
+
+msgctxt "Addons::name::lib_jquery_timepicker"
+msgid "Library - jQuery Timepicker"
+msgstr "Library - jQuery Timepicker"
+
+msgctxt "Addons::description::lib_jquery_timepicker"
+msgid "DEPENDENCY ADDON: Adds the jQuery Timepicker plugin for other addons to use. <a href=\"http://jonthornton.github.io/jquery-timepicker\" target=\"_blank\">More info</a>"
+msgstr DEPENDENCY ADDON: Adds the jQuery Timepicker plugin for other addons to use. <a href=\"http://jonthornton.github.io/jquery-timepicker\" target=\"_blank\">More info</a>"
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_jquery_timepicker::addon_general"
+msgid "General Settings"
+msgstr "General Settings"
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_jquery_timepicker::addon_tools"
+msgid "Addon Tools"
+msgstr "Addon Tools"
+
+#. .....................................................
+msgctxt "SettingsOptions::lib_jquery_timepicker::timepicker_enable"
+msgid "Enable Addon?"
+msgstr "Enable Addon?"
+
+msgctxt "SettingsTooltips::lib_jquery_timepicker::timepicker_enable"
+msgid "Allows you to enable/disable this addon on a per-store basis."
+msgstr "Allows you to enable/disable this addon on a per-store basis."
